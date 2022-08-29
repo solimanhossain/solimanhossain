@@ -1,7 +1,6 @@
 ### Contact
 > :snowman:  ```Connect with me :```<br>
 <img src="images/protonmail.png" width="15">  soliman.hossain@proton.me <br>
-<img src="https://i.imgur.com/5oxIbQt.png" width="15">  soliman.hossain@outlook.com <br>
 
 <table>
 <tr> 
