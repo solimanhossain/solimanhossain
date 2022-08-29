@@ -6,7 +6,7 @@
 <tr> 
   <td><a href="https://t.me/solimanhossain/"><img src="images/telegram.svg" width="125"></a></td>
   <td><a href="https://linkedin.com/in/solimanhossain"><img src="images/linkedin.svg" width="125"></td>
-  <td><a href="https://facebook.com/solimanhossains"><img src="images/Facebook.svg" width="125"></a></td>
+  <td><a href="https://facebook.com/solimanhossains"><img src="images/facebook.svg" width="125"></a></td>
 </tr>
   
 <tr>
