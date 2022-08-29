@@ -1,5 +1,5 @@
 ### Contact
-> :snowman:  ```Connect with me :```<br>
+> :snowman: 
 <img src="images/protonmail.png" width="15">  soliman.hossain@proton.me <br>
 
 <table>
