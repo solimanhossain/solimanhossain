@@ -1,8 +1,8 @@
-### Hi there! It's me Soliman 👋
+### Hi there!👋 It's me Soliman Hossain.
 :snowman: I’m currently studying at [Institute of Information Technology](https://www.juniv.edu/institute/iit)
 > Connect with me :    
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212237&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/solimanhossain) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=212237&logo=telegram&logoColor=ffffff)](https://t.me/solimanhossain)
+[![Telegram Contact](https://img.shields.io/badge/%20-Contact-black?color=14171A&labelColor=212237&logo=telegram&logoColor=ffffff)](https://t.me/solimanhossain)
 <br><img src="images/protonmail.png" width="15">  solimanhossain@proton.me <br>
 
 ## Learning
