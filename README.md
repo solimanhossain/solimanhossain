@@ -6,8 +6,8 @@
 <br><img src="images/protonmail.png" width="15">  solimanhossain@proton.me <br>
 
 ## Learning
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solimanhossain&show_icons=true&locale=en" alt="solimanhossain" /></p>
-
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solimanhossain&theme=github_dark&show_icons=true&locale=en" alt="solimanhossain" /></p>
+ 
 #### Languages and Tools:
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="30"/> ](https://cplusplus.com/doc/tutorial)
@@ -20,8 +20,11 @@
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com)  
 <br/>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solimanhossain&layout=compact)](https://github.com/solimanhossain) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solimanhossain&theme=github_dark&show_icons=true&locale=en&layout=compact)](https://github.com/solimanhossain) 
 
+
+
+<!--
 <table>
 <tr> 
     <td><a href="https://linkedin.com/in/solimanhossain"><img src="images/linkedin.svg" width="125"></td>
