@@ -5,9 +5,7 @@
 [![Telegram Contact](https://img.shields.io/badge/%20-Contact-black?color=14171A&labelColor=212237&logo=telegram&logoColor=ffffff)](https://t.me/solimanhossain)
 <br><img src="images/protonmail.png" width="15">  solimanhossain@proton.me <br>
 
-## Learning
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solimanhossain&theme=github_dark&show_icons=true&locale=en" alt="solimanhossain" /></p>
- 
+
 #### Languages and Tools:
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="30"/> ](https://cplusplus.com/doc/tutorial)
@@ -17,8 +15,13 @@
 [<img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/powerpoint.svg" alt="office" width="40" height="30"/> ](https://www.microsoft.com/en-us/microsoft-365/)  
 [<img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/excel.svg" alt="office" width="40" height="30"/> ](https://www.microsoft.com/en-us/microsoft-365/) [<img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/word.svg" alt="office" width="40" height="30"/> ](https://www.microsoft.com/en-us/microsoft-365/)
 [<img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/color/photoshop.svg" alt="photoshop" width="40" height="30"/> ](https://www.photoshop.com/en)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com)  
-<br/>
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com)
+<br>
+
+
+## Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solimanhossain&theme=github_dark&show_icons=true&locale=en" alt="solimanhossain" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solimanhossain&theme=github_dark&show_icons=true&locale=en&layout=compact)](https://github.com/solimanhossain) 
 
