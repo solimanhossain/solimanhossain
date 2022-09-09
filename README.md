@@ -1,12 +1,13 @@
 ### Hi there!👋 It's me Soliman Hossain.
-:snowman: I’m currently studying at [Institute of Information Technology](https://www.juniv.edu/institute/iit)
-> Connect with me :    
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212237&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/solimanhossain) 
+I’m currently studying at [Institute of Information Technology](https://www.juniv.edu/institute/iit) :snowman: 
+ <br><br>
+ `Connect with me : `  
+> [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212237&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/solimanhossain) 
 [![Telegram Contact](https://img.shields.io/badge/%20-Contact-black?color=14171A&labelColor=212237&logo=telegram&logoColor=ffffff)](https://t.me/solimanhossain)
 <br><img src="images/protonmail.png" width="15">  solimanhossain@proton.me <br>
 
 
-#### Languages and Tools:
+### Languages and Tools:
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="30"/> ](https://cplusplus.com/doc/tutorial)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> ](https://docs.python.org) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="30"/> ](https://www.anaconda.com/use-cases)
