@@ -13,10 +13,9 @@ I’m currently studying at [Institute of Information Technology](https://www.ju
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> ](https://docs.python.org) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="30"/> ](https://www.anaconda.com/use-cases)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/> ](https://www.w3.org/html) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="30"/> ](https://www.w3schools.com/css)
-[<img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/powerpoint.svg" alt="office" width="40" height="30"/> ](https://www.microsoft.com/en-us/microsoft-365/)  
-[<img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/excel.svg" alt="office" width="40" height="30"/> ](https://www.microsoft.com/en-us/microsoft-365/) [<img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/word.svg" alt="office" width="40" height="30"/> ](https://www.microsoft.com/en-us/microsoft-365/)
-[<img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/color/photoshop.svg" alt="photoshop" width="40" height="30"/> ](https://www.photoshop.com/en)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com)
+
+[<img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/powerpoint.svg" alt="office" width="40" height="30"/> ](https://www.microsoft.com/en-us/microsoft-365/) [<img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/excel.svg" alt="office" width="40" height="30"/> ](https://www.microsoft.com/en-us/microsoft-365/) [<img src="https://raw.githubusercontent.com/bytedance/IconPark/master/source/Brand/adobe-lightroom.svg" alt="adobe" width="45" height="35"/> ](https://www.adobe.com/en) [<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/overleaf.svg" alt="latex" width="40" height="25"/> ](https://www.overleaf.com/)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" height="30"/> ](https://code.visualstudio.com)
 <br>
 
 
