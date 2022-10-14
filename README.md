@@ -33,4 +33,4 @@ I’m currently studying at [Institute of Information Technology](https://www.ju
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solimanhossain&theme=github_dark&show_icons=true&locale=en&layout=compact)](https://github.com/solimanhossain) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solimanhossain&theme=github_dark&show_icons=true&locale=en" alt="solimanhossain" /></p>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=solimanhossain&theme=github_dark&show_icons=true"/> -->
