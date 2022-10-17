@@ -19,7 +19,7 @@ I’m currently studying at [Institute of Information Technology](https://www.ju
 ## Git Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solimanhossain&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/solimanhossain)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=solimanhossain&theme=github-green-purple&hide_border=true&show_icons=true)](https://git.io/solimanhossain)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=solimanhossain&theme=github-green-purple&hide_border=true&show_icons=true)](https://github.com/solimanhossain)
 
 
 
