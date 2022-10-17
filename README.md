@@ -1,10 +1,11 @@
 ### Hi there!👋 It's me Soliman Hossain.
-I’m currently studying at [Institute of Information Technology](https://www.juniv.edu/institute/iit) :snowman: 
- <br><br>
+I’m currently studying at [Institute of Information Technology](https://www.juniv.edu/institute/iit) :snowman: <br>
+ 
  `Connect with me : `  
 > [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=f5f5f5&logo=linkedin&logoColor=0c60b0)](https://linkedin.com/in/solimanhossain) 
 [![Telegram Contact](https://img.shields.io/badge/%20-Contact-black?color=14171A&labelColor=f5f5f5&logo=telegram)](https://t.me/solimanhossain)
 <br><img src="images/protonmail.png" width="15"> solimanhossain@proton.me <br>
+
 <table>
  <tr>
    <th><a href="https://twitter.com/solimanhossains/"><img alt="Twitter" title="Twitter" height="32" width="32" src="images/twitter.svg"></a></th>
@@ -14,8 +15,18 @@ I’m currently studying at [Institute of Information Technology](https://www.ju
  </tr>
 </table>
 <br>
- 
- 
+
+
+## Git Stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solimanhossain&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/solimanhossain)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=solimanhossain&theme=github-green-purple&hide_border=true&show_icons=true)](https://git.io/solimanhossain)
+
+
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=solimanhossain&theme=github_dark&show_icons=true"/> -->
+
 <!--
 ## Languages and Tools:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="30"/> ](https://cplusplus.com/doc/tutorial)
@@ -27,11 +38,3 @@ I’m currently studying at [Institute of Information Technology](https://www.ju
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" height="30"/> ](https://code.visualstudio.com)
 <br>
 -->
-
-
-## Git Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solimanhossain&theme=dark&show_icons=true&locale=en&layout=compact)](https://github.com/solimanhossain) 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solimanhossain&theme=dark" alt="solimanhossain"/></p>
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=solimanhossain&theme=github_dark&show_icons=true"/> -->
