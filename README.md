@@ -3,8 +3,8 @@ I’m currently studying at [Institute of Information Technology](https://www.ju
  
  `Connect with me : `  
 > [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=f5f5f5&logo=linkedin&logoColor=0c60b0)](https://linkedin.com/in/solimanhossain) 
-[![Telegram Contact](https://img.shields.io/badge/%20-Contact-black?color=14171A&labelColor=f5f5f5&logo=telegram)](https://t.me/solimanhossain)
-<br><img src="images/protonmail.png" width="15"> solimanhossain@proton.me <br>
+[![Telegram Contact](https://img.shields.io/badge/%20-Contact-black?color=14171A&labelColor=f5f5f5&logo=telegram)](https://t.me/solimanhossain)<br>
+<img src="images/protonmail.png" width="15"> solimanhossain@proton.me
 
 <table>
  <tr>
@@ -14,7 +14,6 @@ I’m currently studying at [Institute of Information Technology](https://www.ju
    <th><a href="https://solimanhossain.github.io/"><img alt="myweb" src="images/web.svg" title="myweb" width="32" height="32" /></a></th>
  </tr>
 </table>
-<br>
 
 
 ## Git Stats
