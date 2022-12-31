@@ -8,12 +8,12 @@ I’m currently studying at [Institute of Information Technology](https://www.ju
 
 
 <table>
- <tr>
-   <th><a href="https://leetcode.com/solimanhossain/"><img alt="Leetcode" title="Leetcode" height="32" width="32" src="images/leetcode.svg"></a></th>
-   <th><a href="https://www.linkedin.com/in/solimanhossain/"><img alt="Twitter" title="Linkedin" height="32" width="32" src="images/linkedin.svg"></a></th>
-   <th><a href="https://github.com/solimanhossain/solimanhossain.github.io/raw/main/pdf/cv.pdf"><img alt="CV" title="Resume" height="32" width="32" src="images/cv.svg"></a></th>
-   <th><a href="https://solimanhossain.github.io/"><img alt="myweb" src="images/web.svg" title="Portfolio" width="32" height="32" /></a></th>
- </tr>
+  <tr>
+    <th><a href="https://www.linkedin.com/in/solimanhossain/"><img alt="Twitter" title="Linkedin" height="32" width="32" src="images/linkedin.svg"></a></th>
+    <th><a href="https://github.com/solimanhossain/solimanhossain.github.io/raw/main/pdf/cv.pdf"><img alt="CV" title="Resume" height="32" width="32" src="images/cv.svg"></a></th>
+    <th><a href="https://solimanhossain.github.io/"><img alt="myweb" src="images/web.svg" title="Portfolio" width="32" height="32" /></a></th>
+    <th><a href="https://leetcode.com/solimanhossain/"><img alt="Leetcode" title="Leetcode" height="32" width="32" src="images/leetcode.svg"></a></th>
+  </tr>
 </table>
 
 
