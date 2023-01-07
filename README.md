@@ -1,6 +1,6 @@
-### Hi there!👋 It's me Soliman Hossain.  ![](https://komarev.com/ghpvc/?username=solimanhossain&color=blue&style=plastic)   
-I’m currently studying at [Institute of Information Technology.](https://www.juniv.edu/institute/iit) <br>
- 
+### Hi there!👋 It's me Soliman Hossain.   
+I’m currently studying at [Institute of Information Technology.](https://www.juniv.edu/institute/iit)  ![](https://komarev.com/ghpvc/?username=solimanhossain&color=blue&style=plastic) <br><br>
+
  :snowman:`Connect with me.`    
 > [![Telegram Contact](https://img.shields.io/badge/%20-Contact-black?color=14171A&labelColor=f5f5f5&logo=telegram)](https://t.me/solimanhossain)
 > [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=f5f5f5&logo=twitter)](https://twitter.com/solimanhossains/) <br>
