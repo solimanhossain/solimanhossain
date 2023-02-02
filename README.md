@@ -7,7 +7,7 @@ I’m currently studying at [IIT, Jahangirnagar University](https://www.juniv.ed
      <a href="https://www.linkedin.com/in/solimanhossain/"><img alt="Twitter" title="Linkedin" height="42" width="42" src="images/linkedin.svg"></a>
     </th>
     <th>
-     <a href="https://github.com/solimanhossain/solimanhossain.github.io/raw/main/pdf/cv.pdf"><img alt="CV" title="Resume" height="42" width="42" src="images/cv.svg"></a>
+     <a href="https://github.com/solimanhossain/solimanhossain.github.io/raw/main/content/cv.pdf"><img alt="CV" title="Resume" height="42" width="42" src="images/cv.svg"></a>
     </th>
     <th>
      <a href="https://solimanhossain.github.io/"><img alt="myweb" src="images/web.svg" title="Portfolio" width="42" height="42" /></a>
