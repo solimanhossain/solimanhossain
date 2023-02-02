@@ -23,7 +23,7 @@ I’m currently studying at [IIT, Jahangirnagar University](https://www.juniv.ed
 > [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/solimanhossains/) <br><br>
 > ![Views](https://komarev.com/ghpvc/?username=solimanhossain&color=lightgrey&style=flat-square)
 
-<img align="right" alt="GIF" src="https://github.com/solimanhossain/solimanhossain/blob/main/code-freak.gif?raw=true" width="150"/>
+<img align="right" alt="GIF" src="https://github.com/solimanhossain/solimanhossain/blob/main/code-freak.gif?raw=true" width="150"/><br>
 <!-- -->
  
 ## Git Stats
