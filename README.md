@@ -1,7 +1,7 @@
 ### Hi there!👋 It's me Soliman Hossain :snowman: 
 I’m currently studying at [IIT, Jahangirnagar University](https://www.juniv.edu/institute/iit).
 
-<img align="right" alt="GIF" src="https://github.com/solimanhossain/solimanhossain/blob/main/code-freak.gif?raw=true" width="200"/>
+<img align="right" alt="GIF" src="https://github.com/solimanhossain/solimanhossain/blob/main/code-freak.gif?raw=true" width="225"/>
 <table>
   <tr>
     <th>
