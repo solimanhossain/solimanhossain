@@ -1,6 +1,7 @@
-### Hi there!👋 It's me Soliman Hossain :snowman: <img align="right" alt="GIF" src="https://github.com/solimanhossain/solimanhossain/blob/main/coding-freak.gif?raw=true" width="350"/><br>
-
+### Hi there!👋 It's me Soliman Hossain :snowman: 
 I’m currently studying at [IIT, Jahangirnagar University](https://www.juniv.edu/institute/iit).
+
+<img align="right" alt="GIF" src="https://github.com/solimanhossain/solimanhossain/blob/main/code-freak.gif?raw=true" width="200"/>
 <table>
   <tr>
     <th>
