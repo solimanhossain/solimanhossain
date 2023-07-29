@@ -21,10 +21,10 @@ I’m currently studying at [IIT, Jahangirnagar University](https://www.juniv.ed
 > <img src="images/protonmail.png" width="15"> solimanhossain@proton.me <br><br>
 > [![Telegram Contact](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/solimanhossain)
 > [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/solimanhossains/) <br><br>
-> ![Views](https://komarev.com/ghpvc/?username=solimanhossain&color=lightgrey&style=flat-square)
+ <!-- > ![Views](https://komarev.com/ghpvc/?username=solimanhossain&color=lightgrey&style=flat-square) -->
 
 <img align="right" alt="GIF" src="https://github.com/solimanhossain/solimanhossain/blob/main/code-freak.gif?raw=true" width="150"/><br>
-<!-- -->
+
  
 ## Git Stats
 > ![Metrics](https://metrics.lecoq.io/solimanhossain?template=classic&base.header=0&base.activity=0&base.community=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=bytes-size%2C%20parcentage&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FDhaka)
