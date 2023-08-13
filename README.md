@@ -18,10 +18,10 @@ I’m currently studying at [IIT, Jahangirnagar University](https://www.juniv.ed
   </tr>
 </table>
 
-> <img src="images/protonmail.png" width="15"> solimanhossain@proton.me <br><br>
+> <img src="images/email.svg" width="20"> solimanhossainsohan@gmail.com <br><br>
 > [![Telegram Contact](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/solimanhossain)
 > [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/solimanhossains/) <br><br>
- <!-- > ![Views](https://komarev.com/ghpvc/?username=solimanhossain&color=lightgrey&style=flat-square) -->
+> ![Views](https://komarev.com/ghpvc/?username=solimanhossain&color=lightgrey&style=flat-square) 
 
 <img align="right" alt="GIF" src="https://github.com/solimanhossain/solimanhossain/blob/main/code-freak.gif?raw=true" width="150"/><br>
 
