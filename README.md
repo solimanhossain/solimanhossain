@@ -21,7 +21,7 @@ I’m currently studying at [IIT, Jahangirnagar University](https://www.juniv.ed
 > <img src="images/email.svg" width="20"> solimanhossainsohan@gmail.com <br><br>
 > [![Telegram](https://img.shields.io/badge/telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/solimanhossain)
 > [![Unsplash](https://img.shields.io/badge/unsplash-1DA1F2?logo=Unsplash&logoColor=white)](https://unsplash.com/@solimanhossain) <br><br>
-<!-- > ![Views](https://komarev.com/ghpvc/?username=solimanhossain&color=lightgrey&style=flat-square)  -->
+> ![Views](https://komarev.com/ghpvc/?username=solimanhossain&color=yellow&style=flat-square)
 <img align="right" alt="GIF" src="https://github.com/solimanhossain/solimanhossain/blob/main/code-freak.gif?raw=true" width="150"/><br>
 
  
