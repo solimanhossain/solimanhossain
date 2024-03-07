@@ -1,5 +1,5 @@
 ### Hi there!👋 It's me Soliman Hossain :snowman: 
-I’m currently studying at [IIT, Jahangirnagar University](https://www.juniv.edu/institute/iit).
+I studied at Jahangirnagar University in ([Institute of Information Technology](https://www.juniv.edu/institute/iit)).
 
 <table>
   <tr>
