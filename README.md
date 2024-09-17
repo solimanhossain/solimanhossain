@@ -13,7 +13,7 @@ Graduated from [Jahangirnagar University (IIT)](https://www.juniv.edu/institute/
      <a href="https://solimanhossain.github.io/"><img alt="myweb" src="icons/site.svg" title="Portfolio" width="42" height="42" /></a>
     </th>
     <th>
-     <a href="https://github.com/solimanhossain/solimanhossain.github.io/raw/main/docs/cv.pdf"><img alt="CV" title="Resume" height="42" width="42" src="icons/cv.svg"></a>
+     <a href="https://tinyurl.com/solimanhossainresume"><img alt="CV" title="Resume" height="42" width="42" src="icons/cv.svg"></a>
     </th>
     <th>
      <a href="https://leetcode.com/solimanhossain/"><img alt="Leetcode" title="Leetcode" height="42" width="42" src="icons/code.svg"></a>
