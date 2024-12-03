@@ -38,9 +38,9 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solimanhossain&hide=jupyter%20notebook,html&layout=compact&theme=transparent)
+![Top Langs](https://sol-github-readme-stats.vercel.app/api/top-langs/?username=solimanhossain&hide=jupyter%20notebook,html&layout=compact&theme=transparent)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=solimanhossain&mode=weekly&background=00000000&ring=0000FF&fire=FF0000&stroke=808080&currStreakNum=FFFF00&currStreakLabel=008000&sideLabels=808080&sideNums=C0C0C0&border=808080)
+![GitHub Streak](https://sol-github-readme-streak-stats.vercel.app?user=solimanhossain&mode=weekly&background=00000000&ring=0000FF&fire=FF0000&stroke=808080&currStreakNum=FFFF00&currStreakLabel=008000&sideLabels=808080&sideNums=C0C0C0&border=808080)
 
 </div>
 
